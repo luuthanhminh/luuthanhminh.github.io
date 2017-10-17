@@ -72,7 +72,9 @@ ul {
 
 a,
 a:focus,
-a:hover {}
+a:hover {
+    display: flex;
+}
 
 .modal-xl {
     max-width: 90%;
