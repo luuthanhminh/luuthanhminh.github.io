@@ -12,13 +12,13 @@
 
 .portfolio-meta ul {
     background: #f8f8f8 none repeat scroll 0 0;
-    border: 1px solid #e5e5e5;
+    border: 1px solid #59D55E;
     margin: 0;
     padding: 0 20px;
 }
 
 .portfolio-meta ul li {
-    border-bottom: 1px solid #e5e5e5;
+    border-bottom: 1px solid #59D55E;
     color: #666;
     padding: 15px 0;
 }
@@ -35,7 +35,7 @@
 }
 
 .project-desc h3 {
-    border-bottom: 1px solid #e5e5e5;
+    border-bottom: 1px solid #59D55E;
     color: #444;
     font-size: 24px;
     letter-spacing: 2px;
